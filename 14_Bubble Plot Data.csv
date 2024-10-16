@@ -1,31 +1,31 @@
-Movie,Cost,Revenue,Cast
-Avengers Endgame,356,2794,200
-Avengers Infinity War,325,2048,190
-The Avengers,220,1515,75
-Avengers Age of Ultron,365,1395,80
-Incredibles 2,200,1242,30
-SpiderMan Far From Home,160,1132,50
-Captain Marvel,175,1129,60
-Star Wars The Rise of Skywalker,275,1072,100
-Jurassic Park,63,1045,30
-Star Wars Episode I The Phantom Menace,115,1027,80
-The Incredibles,92,631,25
-Star Wars Episode III Revenge of the Sith,113,868,90
-Star Wars Episode II Attack of the Clones,115,653,80
-Captain America The Winter Soldier,170,714,60
-Iron Man 2,200,623,70
-The Hateful Eight,44,155,20
-Django Unchained,100,426,35
-Die Hard 3 Die Hard with a Vengeance,90,366,30
-SpiderMan No Way Home,200,1921,80
-Kingsman The Secret Service,81,414,40
-Kong Skull Island,185,566,45
-Pulp Fiction,8,213,35
-SWAT,80,207,30
-XXX,88,277,40
-The Hitmans Bodyguard,69,176,35
-Snakes on a Plane,33,62,45
-The Negotiator ,50,44,30
-Coach Carter,30,76,35
-Unbreakable,75,248,25
-Glass,20,247,20
+Movie,Cost,Revenue,Cast,Company
+Avengers Endgame,356,2794,200,Disney
+Avengers Infinity War,325,2048,190,Disney
+The Avengers,220,1515,75,Disney
+Avengers Age of Ultron,365,1395,80,Disney
+Incredibles 2,200,1242,30,Disney
+SpiderMan Far From Home,160,1132,50,Disney
+Captain Marvel,175,1129,60,Disney
+Star Wars The Rise of Skywalker,275,1072,100,Disney
+Jurassic Park,63,1045,30,Other
+Star Wars Episode I The Phantom Menace,115,1027,80,Disney
+The Incredibles,92,631,25,Disney
+Star Wars Episode III Revenge of the Sith,113,868,90,Disney
+Star Wars Episode II Attack of the Clones,115,653,80,Disney
+Captain America The Winter Soldier,170,714,60,Disney
+Iron Man 2,200,623,70,Disney
+The Hateful Eight,44,155,20,Other
+Django Unchained,100,426,35,Other
+Die Hard 3 Die Hard with a Vengeance,90,366,30,Other
+SpiderMan No Way Home,200,1921,80,Disney
+Kingsman The Secret Service,81,414,40,Other
+Kong Skull Island,185,566,45,Other
+Pulp Fiction,8,213,35,Other
+SWAT,80,207,30,Other
+XXX,88,277,40,Other
+The Hitmans Bodyguard,69,176,35,Other
+Snakes on a Plane,33,62,45,Other
+The Negotiator ,50,44,30,Other
+Coach Carter,30,76,35,Other
+Unbreakable,75,248,25,Other
+Glass,20,247,20,Other
