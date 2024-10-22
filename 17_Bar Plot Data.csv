@@ -1,0 +1,98 @@
+Franchise,Movie,Revenue
+MCU,Iron Man (2008),585
+MCU,The Incredible Hulk (2008),265
+MCU,Iron Man 2 (2010),624
+MCU,Thor (2011),449
+MCU,Captain America: The First Avenger (2011),371
+MCU,The Avengers (2012),1518
+MCU,Iron Man 3 (2013),1215
+MCU,Thor: The Dark World (2013),645
+MCU,Captain America: The Winter Soldier (2014),714
+MCU,Guardians of the Galaxy (2014),773
+MCU,Avengers: Age of Ultron (2015),1401
+MCU,Ant-Man (2015),519
+MCU,Captain America: Civil War (2016),1153
+MCU,Doctor Strange (2016),677
+MCU,Guardians of the Galaxy Vol. 2 (2017),863
+MCU,Spider-Man: Homecoming (2017),880
+MCU,Thor: Ragnarok (2017),854
+MCU,Black Panther (2018),1347
+MCU,Avengers: Infinity War (2018),2048
+MCU,Ant-Man and the Wasp (2018),622
+MCU,Captain Marvel (2019),1129
+MCU,Avengers: Endgame (2019),2798
+MCU,Spider-Man: Far From Home (2019),1132
+MCU,Black Widow (2021),379
+MCU,Shang-Chi and the Legend of the Ten Rings (2021),432
+MCU,Eternals (2021),402
+MCU,Spider-Man: No Way Home (2021),1921
+MCU,Doctor Strange in the Multiverse of Madness (2022),956
+MCU,Thor: Love and Thunder (2022),760
+MCU,Black Panther: Wakanda Forever (2022),859
+MCU,Ant-Man and the Wasp: Quantumania (2023),476
+MCU,Guardians of the Galaxy Vol. 3 (2023),845
+MCU,"The Marvels (2023, upcoming)",203
+Star Wars,Star Wars: Episode IV - A New Hope (1977),775
+Star Wars,Star Wars: Episode V - The Empire Strikes Back (1980),538
+Star Wars,Star Wars: Episode VI - Return of the Jedi (1983),475
+Star Wars,Star Wars: Episode I - The Phantom Menace (1999),1027
+Star Wars,Star Wars: Episode II - Attack of the Clones (2002),653
+Star Wars,Star Wars: Episode III - Revenge of the Sith (2005),868
+Star Wars,Star Wars: Episode VII - The Force Awakens (2015),2068
+Star Wars,Star Wars: Episode VIII - The Last Jedi (2017),1332
+Star Wars,Star Wars: Episode IX - The Rise of Skywalker (2019),1074
+Star Wars,Rogue One: A Star Wars Story (2016),1058
+Star Wars,Solo: A Star Wars Story (2018),393
+Harry Potter,Harry Potter and the Sorcerers Stone (2001),974
+Harry Potter,Harry Potter and the Chamber of Secrets (2002),879
+Harry Potter,Harry Potter and the Prisoner of Azkaban (2004),797
+Harry Potter,Harry Potter and the Goblet of Fire (2005),896
+Harry Potter,Harry Potter and the Order of the Phoenix (2007),942
+Harry Potter,Harry Potter and the Half-Blood Prince (2009),935
+Harry Potter,Harry Potter and the Deathly Hallows: Part 1 (2010),977
+Harry Potter,Harry Potter and the Deathly Hallows: Part 2 (2011),1342
+Harry Potter,Fantastic Beasts and Where to Find Them (2016),814
+Harry Potter,Fantastic Beasts: The Crimes of Grindelwald (2018),655
+Harry Potter,Fantastic Beasts: The Secrets of Dumbledore (2022),407
+James Bond,Dr. No (1962),59
+James Bond,From Russia with Love (1963),79
+James Bond,Goldfinger (1964),125
+James Bond,Thunderball (1965),141
+James Bond,You Only Live Twice (1967),112
+James Bond,On Her Majestys Secret Service (1969),65
+James Bond,Diamonds Are Forever (1971),116
+James Bond,Live and Let Die (1973),126
+James Bond,The Man with the Golden Gun (1974),98
+James Bond,The Spy Who Loved Me (1977),185
+James Bond,Moonraker (1979),210
+James Bond,For Your Eyes Only (1981),195
+James Bond,Octopussy (1983),184
+James Bond,A View to a Kill (1985),152
+James Bond,The Living Daylights (1987),191
+James Bond,Licence to Kill (1989),156
+James Bond,GoldenEye (1995),352
+James Bond,Tomorrow Never Dies (1997),333
+James Bond,The World Is Not Enough (1999),362
+James Bond,Die Another Day (2002),432
+James Bond,Casino Royale (2006),606
+James Bond,Quantum of Solace (2008),586
+James Bond,Skyfall (2012),1109
+James Bond,Spectre (2015),881
+James Bond,No Time to Die (2021),771
+Jurassic Park,Jurassic Park (1993),1046
+Jurassic Park,The Lost World: Jurassic Park (1997),619
+Jurassic Park,Jurassic Park III (2001),369
+Jurassic Park,Jurassic World (2015),1670
+Jurassic Park,Jurassic World: Fallen Kingdom (2018),1310
+Jurassic Park,Jurassic World: Dominion (2022),1001
+Fast & Furious,The Fast and the Furious (2001),207
+Fast & Furious,2 Fast 2 Furious (2003),236
+Fast & Furious,The Fast and the Furious: Tokyo Drift (2006),158
+Fast & Furious,Fast & Furious (2009),363
+Fast & Furious,Fast Five (2011),626
+Fast & Furious,Fast & Furious 6 (2013),798
+Fast & Furious,Furious 7 (2015),1515
+Fast & Furious,The Fate of the Furious (2017),1239
+Fast & Furious,Fast & Furious Presents: Hobbs & Shaw (2019),761
+Fast & Furious,F9: The Fast Saga (2021),726
+Fast & Furious,Fast X (2023),718
