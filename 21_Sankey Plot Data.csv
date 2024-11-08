@@ -1,21 +1,9 @@
-Person,Gender,Education,Location
-Eric,Male,College,Escaped
-Corey,Male,College,Escaped
-Sean,Male,College,Trapped
-Stuart,Male,College,Escaped
-Chris,Male,No College,Trapped
-Robert,Male,No College,Trapped
-Nolan,Male,No College,Trapped
-Jody,Male,No College,Trapped
-Joel,Male,No College,Escaped
-William,Male,No College,Trapped
-Sherry,Female,College,Escaped
-Mickee,Female,College,Trapped
-Dawn,Female,College,Escaped
-Jackie,Female,College,Trapped
-Kathryn,Female,College,Escaped
-Cheryl,Female,No College,Trapped
-Lisa,Female,No College,Trapped
-Myra,Female,No College,Trapped
-Melanie,Female,No College,Escaped
-Christy,Female,No College,Escaped
+Escaped,Gender,College,Freq
+Yes,Male,Yes,3
+Yes,Male,No,1
+Yes,Female,Yes,3
+Yes,Female,No,2
+No,Male,Yes,1
+No,Male,No,5
+No,Female,Yes,2
+No,Female,No,3
